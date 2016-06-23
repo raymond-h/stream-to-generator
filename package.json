@@ -16,7 +16,10 @@
   },
   "devDependencies": {
     "ava": "^0.15.2",
+    "babel-eslint": "^6.1.0",
     "eslint": "^2.13.1",
-    "onchange": "^2.5.0"
+    "jsverify": "^0.7.1",
+    "onchange": "^2.5.0",
+    "streamtest": "^1.2.2"
   }
 }
